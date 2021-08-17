@@ -1,0 +1,46 @@
+{
+  "link.title.Community": {
+    "message": "Komunidád",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "Higit Pa",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Pagsisimula",
+    "description": "The label of footer link with label=Getting Started linking to docs/"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/gumacahin/snap-manual"
+  },
+  "copyright": {
+    "message": "Ginawa nang may pagmamahal ni ME. Binuo gamit ang Docusaurus.",
+    "description": "The footer copyright"
+  },
+  "link.item.label.Frequently Asked Questions": {
+    "message": "Mga Malimit na Tanong",
+    "description": "The label of footer link with label=Frequently Asked Questions linking to docs/faq"
+  },
+  "link.item.label.Happy Grower’s Channel": {
+    "message": "Happy Grower’s Channel",
+    "description": "The label of footer link with label=Happy Grower’s Channel linking to https://youtube.com/happygrower"
+  },
+  "link.item.label.SNAP Hydroponics Growers": {
+    "message": "SNAP Hydroponics Growers",
+    "description": "The label of footer link with label=SNAP Hydroponics Growers linking to https://facebook.com/groups/snap.hydroponics.growers"
+  },
+  "link.item.label.Unofficial SNAP Hydroponics Website": {
+    "message": "Hindi opisyal na website ng SNAP Hydroponics",
+    "description": "The label of footer link with label=Unofficial SNAP Hydroponics Website linking to https://snaphydroponics.info/"
+  },
+  "link.item.label.SNAP Hydroponics Official Facebook Page": {
+    "message": "Opisyal na Facebook Page ng SNAP Hydroponics",
+    "description": "The label of footer link with label=SNAP Hydroponics Official Facebook Page linking to https://facebook.com/uplbipbsnap/"
+  },
+  "link.title.Manual": {
+    "message": "Mánwal",
+    "description": "The title of the footer links column with title=Manual in the footer"
+  }
+}

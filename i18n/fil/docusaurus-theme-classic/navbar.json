@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "SNAP Hydroponics",
+    "description": "The title in the navbar"
+  },
+  "item.label.Manual": {
+    "message": "Mánwal",
+    "description": "Navbar item with label Manual"
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "theme.NotFound.title": {
+    "message": "Hindi Nahanap ang Pahina",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "Hindi namin mahanap ang iyong hinahanap.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Mangyaring makipag-ugnayan sa may-ari ng site na nag-link sa inyo sa orihinal na URL at ipaalam sa kanila na putol ang kanilang link.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Nabegasyón para sa pahinang listahan ng blog.",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Mga Mas Bagong Lahok",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Mga Mas Lumang Lahok",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "Isang minutong basahin|{readingTime} minutong read",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Mga Tag:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Magbasa Pa",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Nabegasyón para sa pagina ng blog post",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Mas Bagong Post",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Mas Lumang Post",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Isara",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Mga Tags",
+    "description": "The title of the tag list page"
+  },
+  "theme.blog.post.plurals": {
+    "message": "Isang post|{count} posts",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} na may tag na \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Tingnan Lahat ng Tags",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Kopyahin ang lahat ng code sa clipboard",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Kinopya",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Kopyahin",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Palakihin ang sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Palakihin ang sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Nabegayón ng pahina para sa docs.",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Nakaraán",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Sumunod",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Ito ay hindi pa nailalabas na dokumentasyón para sa {versionLabel} bersiyón ng {siteTitle}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Ito ay dokumentasyón para sa {versionLabel} bersiyón ng {siteTitle}, na hindi na aktibong mine-maintain.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Para sa  up-to-date na dokumentasyón, sumangguni sa {latestVersionLink} ({versionLabel}).",
+    "description": "The label userd to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "Pinakabagong bersiyón",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.docs.sidebar.responsiveCloseButtonLabel": {
+    "message": "Close menu",
+    "description": "The ARIA label for close button of mobile doc sidebar"
+  },
+  "theme.docs.sidebar.responsiveOpenButtonLabel": {
+    "message": "Buksan ang menu",
+    "description": "The ARIA label for open button of mobile doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Paliitin ang sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.common.editThisPage": {
+    "message": "I-edit ang pahinang ito",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Direktang link patungo sa heading",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " nang {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " ni {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Huling ni-update{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Lumaktaw patungo sa pangunahing nilalaman",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "Easy to Use": {
+    "message": "Madaling Gamitin"
+  },
+  "Simplicity is in its name. SNAP Hydroponics was designed to make it snap for everyone to get started on hydroponics.": {
+    "message": "Ang pagiging payák ay nasa pangalan nito. Ang SNAP Hydroponics ay dinesenyo upang gawing madali para sa lahat ang pagha-hydroponics."
+  },
+  "Low-cost": {
+    "message": "Abot-kaya"
+  },
+  "SNAP Hydroponics doesn’t require additional tools like pH and TDS meters and supplies such as pH adjustment kits. It just works.": {
+    "message": "Hindi kailangan ng SNAP Hydroponics ang mga karagdagang gamit gaya ng pH at TDS meters at sangkap ga ng pH adjusment kits. Basta gumagana na lang."
+  },
+  "Business Ready": {
+    "message": "Handa para sa Negosyo"
+  },
+  "The same basic setup can be adapted to work as a small-scale commercial farm or upgraded to more production intensive hydroponic setups.": {
+    "message": "Ang nag-iisang basic setup ay maaring i-adapt upang magamit sa small-scale commercial farm o i-upgrade mga hydroponics setup na mas intensibo ang produksiyon."
+  },
+  "Get Started": {
+    "message": "Magsimula Na"
+  },
+  "Simplicity is in its name. SNAP Hydroponics was designed to make it a snap for everyone to get started with hydroponics.": {
+    "message": "Simplicity is in its name. SNAP Hydroponics was designed to make it a snap for everyone to get started with hydroponics."
+  },
+  "theme.PwaReloadPopup.info": {
+    "message": "New version available",
+    "description": "The text for PWA reload popup"
+  },
+  "theme.PwaReloadPopup.refreshButtonText": {
+    "message": "Refresh",
+    "description": "The text for PWA reload button"
+  },
+  "theme.PwaReloadPopup.closeButtonAriaLabel": {
+    "message": "Close",
+    "description": "The ARIA label for close button of PWA reload popup"
+  }
+}

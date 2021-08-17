@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Sumunod",
+    "description": "The label for version current"
+  },
+  "sidebar.docs.category.Guides": {
+    "message": "Mga Gabay",
+    "description": "The label for category Guides in sidebar docs"
+  }
+}
