@@ -2,7 +2,7 @@
 module.exports = {
   title: 'SNAP Hydroponics Manual',
   tagline: 'Safe, easy to use and low-cost hydroponics system that is ideal for household level and small-scale commercial vegetable production.',
-  url: 'https://manual.snaphydroponics.info',
+  url: 'https://snap-hydroponics.web.app',
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'fil'],
@@ -27,6 +27,7 @@ module.exports = {
     algolia: {
       apiKey: '4030104f9c6138fe6eee1b34cc1aeafd',
       indexName: 'snaphydroponics',
+      appId: 'snaphydroponics',
     },
     navbar: {
       hideOnScroll: true,
@@ -83,7 +84,7 @@ module.exports = {
           items: [
             {
               label: 'Unofficial SNAP Hydroponics Website',
-              href: 'https://snaphydroponics.info/',
+              href: 'https://snaphydro.wordpress.com/',
             },
             {
               label: 'SNAP Hydroponics Official Facebook Page',
@@ -99,7 +100,7 @@ module.exports = {
       copyright: `Lovingly made by ME. Built with Docusaurus.`,
     },
     image: 'img/snap.png',
-    metadatas: [
+    metadata: [
       {
         name: 'theme-color',
         content: '#228d0d'

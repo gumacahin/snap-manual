@@ -10,7 +10,7 @@
   "related_applications": [
     {
       "platform": "webapp",
-      "url": "https://manual.snaphydroponics.info/manifest.json"
+      "url": "https://snap-hydroponics.web.app/manifest.json"
     }
   ],
   "icons": [
