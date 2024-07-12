@@ -24,7 +24,8 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-.figure, .quote {
+.figure,
+.quote {
   margin: 1rem;
 }
 
@@ -42,4 +43,9 @@ figcaption {
 
 .hero__title {
   font-size: calc(1.5 * var(--ifm-h1-font-size));
+}
+
+.hero {
+  background: url(/img/hero.jpg) no-repeat center center;
+  text-shadow: var(--ifm-color-primary) 1px 0 10px;
 }
