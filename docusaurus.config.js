@@ -106,18 +106,6 @@ module.exports = {
         content: '#228d0d'
       },
       {
-        name: 'twitter:card',
-        content: 'summary_large_image'
-      },
-      {
-        name: 'twitter:creator',
-        content: '@gumacahin'
-      },
-      {
-        name: 'twitter:image',
-        content: '/img/snap-manual-soc.png'
-      },
-      {
         property: 'og:image',
         content: '/img/snap-manual-soc.png'
       },
