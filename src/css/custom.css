@@ -46,6 +46,7 @@ figcaption {
 }
 
 .hero {
-  background: url(/img/hero.jpg) no-repeat center center;
+  background-repeat: no-repeat;
+  background-position: center center;
   text-shadow: var(--ifm-color-primary) 1px 0 10px;
 }

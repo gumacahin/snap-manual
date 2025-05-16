@@ -58,12 +58,13 @@ function Feature({imageUrl, title, description}) {
 export default function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
+  const backgroundImageUrl = useBaseUrl('img/hero.jpg');
   return (
     <Layout
       title="Learn how to hydroponics the fast and easy way"
       description="Comprehensive and easy to follow step-by-step guide on how to setup a simple hydroponics system with SNAP Hydroponics."
     >
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <header className={clsx('hero hero--primary', styles.heroBanner)} style={{backgroundImage: `url(${backgroundImageUrl})`}}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
