@@ -59,21 +59,21 @@ function Feature({imageUrl, title, description}) {
 export default function Home() {
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
+  const heroImage = useBaseUrl('img/hero.jpg');
   return (
     <Layout
       title="Alamin kung paano mag-hydroponics sa mabilis at madaling paraan"
       description="Kumprehensibo at madaling sundang step-by-step na gabay kung paano mag-setup ng payak na sistemang hydroponics gamit ang SNAP Hydroponics."
     >
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <header className={styles.heroBanner} style={{ backgroundImage: `url(${heroImage})`}}>
         <div className="container">
           <h1 className="hero__title">Mánwal ng SNAP Hydroponics</h1>
           <p className="hero__subtitle">Ligtas, madaling gamitin at abot-kayang sistemang hydroponics na angkop para sa pangtahanan at maliit na komersiyal na produksiyon ng gulay.</p>
           <div className={styles.buttons}>
             <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
+              className={
+                'button button--filled button--primary button--lg'
+              }
               to={useBaseUrl('docs/')}>
               <Translate>Get Started</Translate>
             </Link>

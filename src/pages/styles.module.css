@@ -10,6 +10,11 @@
   text-align: center;
   position: relative;
   overflow: hidden;
+  color: var(--ifm-color-white);
+  text-shadow: var(--ifm-color-primary) 1px 0 10px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 @media screen and (max-width: 966px) {

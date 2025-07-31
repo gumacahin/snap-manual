@@ -97,7 +97,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Lovingly made by <a href="https://alviar.me">Marco Enrico Alviar</a>. Built with Docusaurus.`,
+      copyright: `Lovingly made by <a href="https://marco-enrico.web.app/">Marco Enrico Alviar</a>. Built with Docusaurus.`,
     },
     image: 'img/snap.png',
     metadata: [
