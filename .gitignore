@@ -26,3 +26,5 @@ firebase-debug.*.log*
 .firebase/
 
 .pnp*
+
+.yarn
