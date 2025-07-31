@@ -19,7 +19,7 @@
     "@docusaurus/plugin-pwa": "^3.4.0",
     "@docusaurus/plugin-sitemap": "^3.4.0",
     "@docusaurus/preset-classic": "^3.4.0",
-    "@mdx-js/react": "^1.6.21",
+    "@mdx-js/react": "^3.1.0",
     "clsx": "^1.1.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
@@ -35,6 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "packageManager": "yarn@4.1.0+sha512.5b7bc055cad63273dda27df1570a5d2eb4a9f03b35b394d3d55393c2a5560a17f5cef30944b11d6a48bcbcfc1c3a26d618aae77044774c529ba36cb771ad5b0f"
+  }
 }
