@@ -16,7 +16,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/gumacahin/snap-manual"
   },
   "copyright": {
-    "message": "Ginawa nang may pagmamahal ni ME. Binuo gamit ang Docusaurus.",
+    "message": "Ginawa nang may pagmamahal ni <a href=\"https://marco-enrico.web.app/\">Marco Enrico Alviar</a>. Binuo gamit ang Docusaurus.",
     "description": "The footer copyright"
   },
   "link.item.label.Frequently Asked Questions": {
