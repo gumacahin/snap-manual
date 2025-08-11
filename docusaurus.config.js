@@ -151,6 +151,11 @@ module.exports = {
         ],
         pwaHead: [
           {
+            tagName: 'meta',
+            name: 'algolia-site-verification',
+            content: '659B9D1395B163D5',
+          },
+          {
             tagName: 'link',
             rel: 'icon',
             href: '/img/snap.png',
