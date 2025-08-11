@@ -25,9 +25,9 @@ module.exports = {
   projectName: 'snap-manual', // Usually your repo name.
   themeConfig: {
     algolia: {
-      apiKey: '4030104f9c6138fe6eee1b34cc1aeafd',
-      indexName: 'snaphydroponics',
-      appId: 'snaphydroponics',
+      apiKey: '06c69c23b8f0391fe8e028e769b2f7cd',
+      indexName: 'SNAP Hydroponics Manual',
+      appId: 'DDDMWD4I5O',
     },
     navbar: {
       hideOnScroll: true,
